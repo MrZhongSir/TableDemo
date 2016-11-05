@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>怎样才能获取更高的额度？</string>
+		<key>message</key>
+		<string>在您所填资料真实性的前提下，确保您提交有填资料真实性的前提下，确保您提交有效资料的充分性。</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>申请额度提交的个人资料安全吗？提交错了是否可以修改？</string>
+		<key>message</key>
+		<string>您所提交的信息通过加密处理，是安全的。您提交的信息完预授信，激活流程后，信用评分不足的话，允许修改一次，但无法修改实名信息。</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>还款金额是如何计算的？</string>
+		<key>message</key>
+		<string>首期还款额=+商品价格*%+商品价格/期限；后期还款额=商品价格*格/。</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>还款日期是哪一天？</string>
+		<key>message</key>
+		<string>T日申请分期，+日开计息，第款；若分期业务，以最早一笔订单的还款日为统一还款日。</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>什么是逾期？逾期费用是怎么算的？</string>
+		<key>message</key>
+		<string>如果到了还款日时还贷息，就逾期。逾期需期的逾期费用，每天，记录清的用户，次款，允许下单。</string>
+	</dict>
+</array>
+</plist>
