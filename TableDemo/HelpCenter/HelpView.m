@@ -26,6 +26,14 @@
         self.backButton = [UIButton buttonWithType:UIButtonTypeSystem];
         self.backButton.frame = self.bounds;
         
+        if (model.isShowMessage) {
+            self.noticeImageView.transform = CGAffineTransformMakeRotation(M_PI_4);
+        }
+        else
+        {
+            self.noticeImageView.transform = CGAffineTransformIdentity;
+        }
+        
         [self addSubview:self.helpTitleLabel];
         [self addSubview:self.noticeImageView];
         [self addSubview:self.backButton];
